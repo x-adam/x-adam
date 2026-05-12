@@ -81,6 +81,18 @@ JSON beautifier, SSL checker, QR generator, encoders, converters — one focused
 <tr>
 <td align="center" width="50%">
 
+<a href="https://github.com/weldist"><img src="https://github.com/weldist.png" height="80" alt="weld.ist" /></a>
+
+### [weld.ist](https://github.com/weldist)
+**Welding missing pieces onto big open source packages.**
+Small, focused, reversible Composer packages that bolt onto upstream extension points — currently `spatie/laravel-medialibrary` and `laravel/pulse` add-ons.
+
+[![PHP](https://img.shields.io/badge/PHP-8.3%2B-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net)
+[![Website](https://img.shields.io/badge/weld.ist-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://weld.ist)
+
+</td>
+<td align="center" width="50%">
+
 <a href="https://github.com/aqtivite"><img src="./assets/aqtivite-logo.png" height="80" alt="Aqtivite" /></a>
 
 ### [Aqtivite](https://github.com/aqtivite)
@@ -90,14 +102,13 @@ A mobile app that surfaces nearby activities, events, and places worth your time
 [![Mobile](https://img.shields.io/badge/Mobile-iOS_%7C_Android-000000?style=flat-square)](https://github.com/aqtivite)
 
 </td>
-<td align="center" width="50%">
+</tr>
+<tr>
+<td align="center" colspan="2">
 
 ### Other orgs
 
-- **[bulutsis](https://github.com/bulutsis)** — cloud-side experiments
-- **[ValueObjects](https://github.com/ValueObjects)** — typed value object collection
-
-<br/>
+**[bulutsis](https://github.com/bulutsis)** — cloud-side experiments · **[ValueObjects](https://github.com/ValueObjects)** — typed value object collection
 
 <sub>Smaller orgs holding focused experiments and shared utilities.</sub>
 
