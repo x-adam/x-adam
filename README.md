@@ -81,7 +81,7 @@ JSON beautifier, SSL checker, QR generator, encoders, converters — one focused
 <tr>
 <td align="center" width="50%">
 
-<a href="https://github.com/weldist"><img src="https://github.com/weldist.png" height="80" alt="weld.ist" /></a>
+<a href="https://github.com/weldist"><img src="https://raw.githubusercontent.com/weldist/.github/master/assets/weld_ist-logo.svg" height="80" alt="weld.ist" /></a>
 
 ### [weld.ist](https://github.com/weldist)
 **Welding missing pieces onto big open source packages.**
