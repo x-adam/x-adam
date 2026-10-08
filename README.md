@@ -41,20 +41,6 @@ Vector embeddings for Eloquent, polymorphic commentables, approval workflows, se
 </td>
 <td align="center" width="50%">
 
-<a href="https://github.com/x-dockerize"><img src="./assets/x-dockerize-logo.svg" height="80" alt="x-dockerize" /></a>
-
-### [x-dockerize](https://github.com/x-dockerize)
-**Production-ready Docker setups.**
-Shared multi-arch PHP base images on GHCR + Compose templates for everything I self-host — databases, mail, VPN, collaboration, ops.
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)](https://traefik.io/)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
 <a href="https://github.com/x-shell-codes"><img src="./assets/x-shell-codes-logo.svg" height="80" alt="x-shell-codes" /></a>
 
 ### [x-shell-codes](https://github.com/x-shell-codes)
@@ -65,6 +51,8 @@ Open the file. Read it. Run it. Move on. Nginx, MySQL, Redis, PHP, Node.js, SSL 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
 <a href="https://github.com/x-app-run"><img src="./assets/x-app-run-logo.svg" height="80" alt="x-app.run" /></a>
@@ -77,8 +65,6 @@ JSON beautifier, SSL checker, QR generator, encoders, converters — one focused
 [![Tools](https://img.shields.io/badge/Tools-100%2B-22C55E?style=flat-square)](https://x-app.run)
 
 </td>
-</tr>
-<tr>
 <td align="center" width="50%">
 
 <a href="https://github.com/weldist"><img src="https://raw.githubusercontent.com/weldist/.github/master/assets/weld_ist-logo.svg" height="80" alt="weld.ist" /></a>
@@ -91,6 +77,8 @@ Small, focused, reversible Composer packages that bolt onto upstream extension p
 [![Website](https://img.shields.io/badge/weld.ist-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://weld.ist)
 
 </td>
+</tr>
+<tr>
 <td align="center" width="50%">
 
 <a href="https://github.com/aqtivite"><img src="./assets/aqtivite-logo.png" height="80" alt="Aqtivite" /></a>
@@ -102,9 +90,7 @@ A mobile app that surfaces nearby activities, events, and places worth your time
 [![Mobile](https://img.shields.io/badge/Mobile-iOS_%7C_Android-000000?style=flat-square)](https://github.com/aqtivite)
 
 </td>
-</tr>
-<tr>
-<td align="center" colspan="2">
+<td align="center" width="50%">
 
 ### Other orgs
 
